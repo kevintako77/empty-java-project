@@ -15,14 +15,14 @@ public class JavaApp {
         double d = 65.55;
         boolean bol = true;
 
-        Sistem.out.println(b);
-        Sistem.out.println(c);
-        Sistem.out.println(s);
-        Sistem.out.println(i);
-        Sistem.out.println(l);
-        Sistem.out.println(f);
-        Sistem.out.println(d);
-        Sistem.out.println(bol);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(s);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(bol);
     }
 
 }
